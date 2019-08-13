@@ -1,4 +1,4 @@
-# Class Components
+# Class Component
 
 ## Typing Props
 
